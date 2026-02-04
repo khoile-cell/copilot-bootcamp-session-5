@@ -27,6 +27,7 @@
   "author": "Slalom",
   "license": "MIT",
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "formidable": "^3.5.2"
   }
 }
